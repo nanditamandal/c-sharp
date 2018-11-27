@@ -1,0 +1,63 @@
+G:\9th sem\done\ShopManagement\ShopApplication\bin\Debug\ShopApplication.exe.config
+G:\9th sem\done\ShopManagement\ShopApplication\bin\Debug\ShopApplication.exe
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Add_Product.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Add_salesman.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Admin.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Buy_Product.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Check_Product.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Customer.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Delete_Product.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Delete_salesman.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Login.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Properties.Resources.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Registration.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Salesman.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Update_Product.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Update_salesman.resources
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.csproj.GenerateResource.Cache
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.exe
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.pdb
+G:\9th sem\done\ShopManagement\ShopApplication\bin\Debug\ShopApplication.pdb
+G:\9th sem\done\ShopManagement\ShopApplication\obj\Debug\ShopApplication.csprojResolveAssemblyReference.cache
+D:\microprocessor\project\ShopManagement\ShopApplication\bin\Debug\ShopApplication.exe.config
+D:\microprocessor\project\ShopManagement\ShopApplication\bin\Debug\ShopApplication.exe
+D:\microprocessor\project\ShopManagement\ShopApplication\bin\Debug\ShopApplication.pdb
+D:\microprocessor\project\ShopManagement\ShopApplication\bin\Debug\ShopRepository2.dll
+D:\microprocessor\project\ShopManagement\ShopApplication\bin\Debug\ShopRepository2.pdb
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.csprojResolveAssemblyReference.cache
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Properties.Resources.resources
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.csproj.GenerateResource.Cache
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.exe
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.pdb
+D:\microprocessor\project\ShopManagement\ShopApplication\bin\Debug\CSharp.mdf
+D:\microprocessor\project\ShopManagement\ShopApplication\bin\Debug\CSharp_log.ldf
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.product_detail.resources
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.ProjectMain_Form.resources
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.SalesmanLogin.resources
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Salesman_Information.resources
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Admin_login.resources
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.CustomerLogin.resources
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.reg.resources
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Customer_Registration.resources
+D:\microprocessor\project\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Buy_Item.resources
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\bin\Debug\ShopApplication.exe.config
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.exe
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.pdb
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\bin\Debug\CSharp.mdf
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\bin\Debug\CSharp_log.ldf
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\bin\Debug\ShopApplication.exe
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\bin\Debug\ShopApplication.pdb
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\bin\Debug\ShopRepository2.dll
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\bin\Debug\ShopRepository2.pdb
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.csprojResolveAssemblyReference.cache
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.product_detail.resources
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Buy_Item.resources
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.CustomerLogin.resources
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Customer_Registration.resources
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Salesman_Information.resources
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Admin_login.resources
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.ProjectMain_Form.resources
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.Properties.Resources.resources
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.reg.resources
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.SalesmanLogin.resources
+D:\microprocessor\csharpfinalproject\ShopManagement\ShopApplication\obj\Debug\ShopApplication.csproj.GenerateResource.Cache

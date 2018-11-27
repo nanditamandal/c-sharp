@@ -1,0 +1,5 @@
+D:\microprocessor\project\ShopManagement\ShopRepository2\bin\Debug\ShopRepository2.dll
+D:\microprocessor\project\ShopManagement\ShopRepository2\bin\Debug\ShopRepository2.pdb
+D:\microprocessor\project\ShopManagement\ShopRepository2\obj\Debug\ShopRepository2.dll
+D:\microprocessor\project\ShopManagement\ShopRepository2\obj\Debug\ShopRepository2.pdb
+D:\microprocessor\project\ShopManagement\ShopRepository2\obj\Debug\ShopRepository2.csprojResolveAssemblyReference.cache
